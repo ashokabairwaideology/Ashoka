@@ -42,7 +42,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=C,C++,python,mysql,md" /><br>
     <img src="https://skillicons.dev/icons?i=matsplotlib,numpy,pandas,pytorch,opencv,sklearn,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=Visual studio code,Jupyter,anaconda,docker,figma,firebase,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=jupyter,anaconda,docker,figma,firebase,git,github,vscode" /><br>
 </div>
 
 <br/>
