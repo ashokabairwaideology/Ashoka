@@ -1,6 +1,6 @@
 # Ashoka
 [//]: <> (Visitior Badge) 
-<a href="https://visitorbadge.io/status?path=GSelvakumar"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=GSelvakumar&labelColor=%23697689&countColor=%23d9e3f0" /></a><br/>
+<a href="![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fashokabairwaideology%2FHacking-tools-for-linux&labelColor=%2337d67a&countColor=%23ba68c8&style=flat-square)"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=GSelvakumar&labelColor=%23697689&countColor=%23d9e3f0" /></a><br/>
 
 [//]: <> (Name Live Typing) 
 <h1 align="center">
